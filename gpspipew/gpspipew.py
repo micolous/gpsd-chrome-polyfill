@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 Wraps gpspipe in order to pass Chrome Native Messaging protocol messages.
 
